@@ -1,2 +1,2 @@
 # playbook
-How to convert your freelancing work into a company
+How to transition from freelancing to a consulting company
